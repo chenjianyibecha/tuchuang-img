@@ -3,36 +3,40 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "LocalSend.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/LocalSend.png"
-    },
-    {
       "name": "youku.png",
       "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/youku.png"
-    },
-    {
-      "name": "微信.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/微信.png"
-    },
-    {
-      "name": "yuanshao.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/yuanshao.png"
-    },
-    {
-      "name": "Turrit.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Turrit.png"
-    },
-    {
-      "name": "Spotify.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Spotify.png"
     },
     {
       "name": "Apple.png",
       "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Apple.png"
     },
     {
+      "name": "Turrit.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Turrit.png"
+    },
+    {
+      "name": "yuanshao.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/yuanshao.png"
+    },
+    {
+      "name": "xingkongping .png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/xingkongping .png"
+    },
+    {
+      "name": "LocalSend.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/LocalSend.png"
+    },
+    {
+      "name": "微信.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/微信.png"
+    },
+    {
       "name": "jieda.png",
       "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/jieda.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Spotify.png"
     }
   ]
 }
