@@ -3,12 +3,8 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "youku.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/youku.png"
-    },
-    {
-      "name": "Apple.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Apple.png"
+      "name": "头像-拿枪女.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/头像-拿枪女.png"
     },
     {
       "name": "Turrit.png",
@@ -19,12 +15,20 @@
       "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/yuanshao.png"
     },
     {
-      "name": "xingkongping .png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/xingkongping .png"
+      "name": "youku.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/youku.png"
     },
     {
-      "name": "LocalSend.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/LocalSend.png"
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Apple.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Spotify.png"
+    },
+    {
+      "name": "xingkongping .png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/xingkongping .png"
     },
     {
       "name": "微信.png",
@@ -35,8 +39,8 @@
       "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/jieda.png"
     },
     {
-      "name": "Spotify.png",
-      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/Spotify.png"
+      "name": "LocalSend.png",
+      "url": "https://raw.githubusercontent.com/chenjianyibecha/tuchuang-img/main/tuchuang/LocalSend.png"
     }
   ]
 }
